@@ -1,1 +1,4 @@
-#empty
+naga:
+  name: sample
+  email: sample@gmail.com
+  password_digest: <%= User.digest('sample@99') %>
