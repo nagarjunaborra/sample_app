@@ -18,6 +18,7 @@ gem 'turbolinks',              '5.0.1'
 gem 'jbuilder',                '2.7.0'
 gem 'libxml-ruby', '~> 3.1'
 gem 'coffee-script-source', '~> 1.12', '>= 1.12.2'
+gem 'pry', '~> 0.11.3'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
